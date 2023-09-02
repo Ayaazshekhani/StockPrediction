@@ -1,2 +1,2 @@
-# StockPrediction
-This project predicts the price of google stock by using LSTM and Machine Learning
+# Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Network
+Stock Price Prediction case study using Keras
